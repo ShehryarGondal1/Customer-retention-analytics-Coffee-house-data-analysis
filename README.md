@@ -16,9 +16,6 @@ Overall, Coffee House is a leader in the coffee industry, known for its high-qua
 
 # <h2 id="link2">Project Background</h2>
 
-
-Project Background:
-
 Coffee House, the world's largest coffeehouse chain, noticed a decline in the number of repeat customers and a corresponding decline in revenue over the past year. After conducting customer feedback surveys, they identified a few factors that could be contributing to the decline in retention rates. These factors include a lack of variety in product offerings, poor customer service, and increased competition from other retailers.
 
 To better understand the factors contributing to the decline in retention rates and identify potential solutions to improve retention and increase revenue, Coffee House has decided to conduct a data analysis project.
@@ -37,7 +34,7 @@ Developing solutions to the given problem statement in the light of your data in
 
 # <h2 id="link4">Detailed EDA Analysis for Customer Retention</h2>  
 
-To gain a deeper understanding of the EDA analysis performed, it is recommended to visit the Customer_Retention_EDA.ipynb file. In this file, you can explore the detailed data column descriptions, data preprocessing techniques, such as removing outliers and handling errors in data formats.
+To gain a deeper understanding of the EDA analysis performed, it is recommended to visit the __Customer_Retention_EDA.ipynb file__. In this file, you can explore the detailed data column descriptions, data preprocessing techniques, such as removing outliers and handling errors in data formats.
 
 Additionally, the EDA analysis includes feature encoding and feature scaling techniques. Feature encoding is used to convert categorical features into numerical representations that can be used in statistical models. Feature scaling techniques are used to scale numerical features to ensure that they are on a similar scale and have equal weight in statistical models.
 
